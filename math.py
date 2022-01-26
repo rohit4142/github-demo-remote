@@ -1,7 +1,7 @@
 #add impleentation
 
 def add(x,y):
-    pass
+    return x+y
 #subtract impleentation
 def subtract(x,y):
     pass
